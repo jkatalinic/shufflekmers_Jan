@@ -42,7 +42,7 @@ namespace mapback
             //-----------------------------------
 
             Console.WriteLine("Reading kmer file..");
-            const string Filename2 = @"/media/nikiwind/DATADRIVE2/LRR_analysis/outputkmers.fasta";
+            const string Filename2 = @"/media/nikiwind/DATADRIVE2/LRR_analysis/outputkmers3.fasta";
             ISequenceParser parser2 = new Bio.IO.FastA.FastAParser();
 
             if (parser2 == null)
