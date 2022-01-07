@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{1F61E69E-51DE-416C-9187-A9AE7241B6E6}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.ItemProperties.KmersMono PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="KmersMono/BackMapper.cs">
+    <Files>
+      <File FileName="KmersMono/Program.cs" Line="2" Column="7" />
+      <File FileName="KmersMono/BackMapper.cs" Line="86" Column="34" />
+      <File FileName="KmersMono/ListSimplifier.cs" Line="52" Column="2" />
+      <File FileName="KmersMono/packages.config" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KmersMono" expanded="True">
+            <Node name="KmersMono" expanded="True">
+              <Node name="BackMapper.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
