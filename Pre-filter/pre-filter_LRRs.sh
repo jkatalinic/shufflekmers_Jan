@@ -2,7 +2,7 @@
 
 # '*' is a wildcard character in bash. It tells the shell to look for files which end in .fastq
 
-cd /Users/jan/FAKS/PhD/LRR_project/Data/NANOPORE/Prefilter/Jan22
+cd /Users/jan/FAKS/PhD/LRR_project/Data/NANOPORE/RAW_DATA
 
 for f in *.fastq
 do
