@@ -23,7 +23,7 @@ namespace mapback
         {
 
             Console.WriteLine("Reading ONT fasta file..");
-            const string Filename = @"/media/nikiwind/DATADRIVE2/LRR_analysis/filtered.fasta";
+            const string Filename = @"/Users/jan/FAKS/PhD/LRR_project/Data/NANOPORE/shufflekmers_Jan/Pre-filter/testreads.fasta";
             ISequenceParser parser = new Bio.IO.FastA.FastAParser();
 
             if (parser == null)
@@ -42,7 +42,7 @@ namespace mapback
             //-----------------------------------
 
             Console.WriteLine("Reading kmer file..");
-            const string Filename2 = @"/media/nikiwind/DATADRIVE2/LRR_analysis/outputkmers3.fasta";
+            const string Filename2 = @"/Users/jan/FAKS/PhD/LRR_project/Data/NANOPORE/shufflekmers_Jan/Step_2/outputkmers3.fasta";
             ISequenceParser parser2 = new Bio.IO.FastA.FastAParser();
 
             if (parser2 == null)
@@ -101,7 +101,7 @@ namespace mapback
 
                 if (ToFile.Count > 5)
                 {
-                    string filename3 = "/Users/nikolai/Sync-Computing/ShuffleScripts/step3/output/" + ONTreads[i].ID + ".txt";
+                    string filename3 = "/Users/jan/FAKS/PhD/LRR_project/Data/NANOPORE/shufflekmers_Jan/Output/" + ONTreads[i].ID + ".txt";
 
                     System.IO.File.WriteAllLines(filename3, ToFile);
                 }
@@ -124,7 +124,7 @@ namespace mapback
 
                 if (ToFile.Count > 5)
                 {
-                    string filename3 = "/media/nikiwind/DATADRIVE2/LRR_analysis/output/" + ONTreads[count].ID + ".txt";
+                    string filename3 = "/Users/jan/FAKS/PhD/LRR_project/Data/NANOPORE/shufflekmers_Jan/Output/" + ONTreads[count].ID + ".txt";
 
                     System.IO.File.WriteAllLines(filename3, ToFile);
                 }
