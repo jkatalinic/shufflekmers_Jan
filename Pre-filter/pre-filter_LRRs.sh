@@ -15,3 +15,5 @@ do
 
 
 done
+
+#make sure to include another mapper like graphmap, just to change names of reads to remove all white spaces!
