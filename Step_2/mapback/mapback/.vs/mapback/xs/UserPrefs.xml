@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{9BC68BF4-FAB1-47D5-8E99-58FBD299C4C7}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="mapback/Program.cs">
+    <Files>
+      <File FileName="mapback/Program.cs" Line="27" Column="35" />
+      <File FileName="mapback/Ranger.cs" />
+      <File FileName="mapback/Refmaker.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="mapback" expanded="True">
+            <Node name="mapback" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.mapback PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

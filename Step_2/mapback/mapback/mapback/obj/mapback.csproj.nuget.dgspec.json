@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jan/FAKS/PhD/LRR_project/Data/NANOPORE/Shuffle_kmers-main/step2/mapback/mapback/mapback/mapback.csproj": {}
+  },
+  "projects": {
+    "/Users/jan/FAKS/PhD/LRR_project/Data/NANOPORE/Shuffle_kmers-main/step2/mapback/mapback/mapback/mapback.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jan/FAKS/PhD/LRR_project/Data/NANOPORE/Shuffle_kmers-main/step2/mapback/mapback/mapback/mapback.csproj",
+        "projectName": "mapback",
+        "projectPath": "/Users/jan/FAKS/PhD/LRR_project/Data/NANOPORE/Shuffle_kmers-main/step2/mapback/mapback/mapback/mapback.csproj",
+        "packagesPath": "/Users/jan/.nuget/packages/",
+        "outputPath": "/Users/jan/FAKS/PhD/LRR_project/Data/NANOPORE/Shuffle_kmers-main/step2/mapback/mapback/mapback/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "NetBio.Core": {
+              "target": "Package",
+              "version": "[3.0.0-alpha, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

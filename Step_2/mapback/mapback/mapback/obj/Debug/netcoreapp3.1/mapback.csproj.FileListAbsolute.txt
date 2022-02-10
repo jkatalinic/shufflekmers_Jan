@@ -1,0 +1,56 @@
+/Users/nikolai/mapback/mapback/mapback/obj/Debug/netcoreapp3.1/mapback.csprojAssemblyReference.cache
+/Users/nikolai/mapback/mapback/mapback/obj/Debug/netcoreapp3.1/mapback.AssemblyInfoInputs.cache
+/Users/nikolai/mapback/mapback/mapback/obj/Debug/netcoreapp3.1/mapback.AssemblyInfo.cs
+/Users/nikolai/mapback/mapback/mapback/obj/Debug/netcoreapp3.1/mapback.csproj.CoreCompileInputs.cache
+/Users/nikolai/mapback/mapback/mapback/bin/Debug/netcoreapp3.1/mapback.deps.json
+/Users/nikolai/mapback/mapback/mapback/bin/Debug/netcoreapp3.1/mapback.runtimeconfig.json
+/Users/nikolai/mapback/mapback/mapback/bin/Debug/netcoreapp3.1/mapback.runtimeconfig.dev.json
+/Users/nikolai/mapback/mapback/mapback/bin/Debug/netcoreapp3.1/mapback.dll
+/Users/nikolai/mapback/mapback/mapback/bin/Debug/netcoreapp3.1/mapback.pdb
+/Users/nikolai/mapback/mapback/mapback/bin/Debug/netcoreapp3.1/Bio.Core.dll
+/Users/nikolai/mapback/mapback/mapback/obj/Debug/netcoreapp3.1/mapback.csproj.CopyComplete
+/Users/nikolai/mapback/mapback/mapback/obj/Debug/netcoreapp3.1/mapback.dll
+/Users/nikolai/mapback/mapback/mapback/obj/Debug/netcoreapp3.1/mapback.pdb
+/Users/nikolai/mapback/mapback/mapback/obj/Debug/netcoreapp3.1/mapback.genruntimeconfig.cache
+/Users/nikolai/Sync-Computing/ShuffleScripts/step2/mapback/mapback/mapback/bin/Debug/netcoreapp3.1/mapback.deps.json
+/Users/nikolai/Sync-Computing/ShuffleScripts/step2/mapback/mapback/mapback/bin/Debug/netcoreapp3.1/mapback.runtimeconfig.json
+/Users/nikolai/Sync-Computing/ShuffleScripts/step2/mapback/mapback/mapback/bin/Debug/netcoreapp3.1/mapback.runtimeconfig.dev.json
+/Users/nikolai/Sync-Computing/ShuffleScripts/step2/mapback/mapback/mapback/bin/Debug/netcoreapp3.1/mapback.dll
+/Users/nikolai/Sync-Computing/ShuffleScripts/step2/mapback/mapback/mapback/bin/Debug/netcoreapp3.1/mapback.pdb
+/Users/nikolai/Sync-Computing/ShuffleScripts/step2/mapback/mapback/mapback/bin/Debug/netcoreapp3.1/Bio.Core.dll
+/Users/nikolai/Sync-Computing/ShuffleScripts/step2/mapback/mapback/mapback/obj/Debug/netcoreapp3.1/mapback.csprojAssemblyReference.cache
+/Users/nikolai/Sync-Computing/ShuffleScripts/step2/mapback/mapback/mapback/obj/Debug/netcoreapp3.1/mapback.AssemblyInfoInputs.cache
+/Users/nikolai/Sync-Computing/ShuffleScripts/step2/mapback/mapback/mapback/obj/Debug/netcoreapp3.1/mapback.AssemblyInfo.cs
+/Users/nikolai/Sync-Computing/ShuffleScripts/step2/mapback/mapback/mapback/obj/Debug/netcoreapp3.1/mapback.csproj.CoreCompileInputs.cache
+/Users/nikolai/Sync-Computing/ShuffleScripts/step2/mapback/mapback/mapback/obj/Debug/netcoreapp3.1/mapback.csproj.CopyComplete
+/Users/nikolai/Sync-Computing/ShuffleScripts/step2/mapback/mapback/mapback/obj/Debug/netcoreapp3.1/mapback.dll
+/Users/nikolai/Sync-Computing/ShuffleScripts/step2/mapback/mapback/mapback/obj/Debug/netcoreapp3.1/mapback.pdb
+/Users/nikolai/Sync-Computing/ShuffleScripts/step2/mapback/mapback/mapback/obj/Debug/netcoreapp3.1/mapback.genruntimeconfig.cache
+/Users/jan/FAKS/PhD/LRR project/Data/NANOPORE/Shuffle_kmers-main/step2/mapback/mapback/mapback/bin/Debug/netcoreapp3.1/mapback.deps.json
+/Users/jan/FAKS/PhD/LRR project/Data/NANOPORE/Shuffle_kmers-main/step2/mapback/mapback/mapback/bin/Debug/netcoreapp3.1/mapback.runtimeconfig.json
+/Users/jan/FAKS/PhD/LRR project/Data/NANOPORE/Shuffle_kmers-main/step2/mapback/mapback/mapback/bin/Debug/netcoreapp3.1/mapback.runtimeconfig.dev.json
+/Users/jan/FAKS/PhD/LRR project/Data/NANOPORE/Shuffle_kmers-main/step2/mapback/mapback/mapback/bin/Debug/netcoreapp3.1/mapback.dll
+/Users/jan/FAKS/PhD/LRR project/Data/NANOPORE/Shuffle_kmers-main/step2/mapback/mapback/mapback/bin/Debug/netcoreapp3.1/mapback.pdb
+/Users/jan/FAKS/PhD/LRR project/Data/NANOPORE/Shuffle_kmers-main/step2/mapback/mapback/mapback/bin/Debug/netcoreapp3.1/Bio.Core.dll
+/Users/jan/FAKS/PhD/LRR project/Data/NANOPORE/Shuffle_kmers-main/step2/mapback/mapback/mapback/obj/Debug/netcoreapp3.1/mapback.csproj.AssemblyReference.cache
+/Users/jan/FAKS/PhD/LRR project/Data/NANOPORE/Shuffle_kmers-main/step2/mapback/mapback/mapback/obj/Debug/netcoreapp3.1/mapback.AssemblyInfoInputs.cache
+/Users/jan/FAKS/PhD/LRR project/Data/NANOPORE/Shuffle_kmers-main/step2/mapback/mapback/mapback/obj/Debug/netcoreapp3.1/mapback.AssemblyInfo.cs
+/Users/jan/FAKS/PhD/LRR project/Data/NANOPORE/Shuffle_kmers-main/step2/mapback/mapback/mapback/obj/Debug/netcoreapp3.1/mapback.csproj.CoreCompileInputs.cache
+/Users/jan/FAKS/PhD/LRR project/Data/NANOPORE/Shuffle_kmers-main/step2/mapback/mapback/mapback/obj/Debug/netcoreapp3.1/mapback.csproj.CopyComplete
+/Users/jan/FAKS/PhD/LRR project/Data/NANOPORE/Shuffle_kmers-main/step2/mapback/mapback/mapback/obj/Debug/netcoreapp3.1/mapback.dll
+/Users/jan/FAKS/PhD/LRR project/Data/NANOPORE/Shuffle_kmers-main/step2/mapback/mapback/mapback/obj/Debug/netcoreapp3.1/mapback.pdb
+/Users/jan/FAKS/PhD/LRR project/Data/NANOPORE/Shuffle_kmers-main/step2/mapback/mapback/mapback/obj/Debug/netcoreapp3.1/mapback.genruntimeconfig.cache
+/Users/jan/FAKS/PhD/LRR_project/Data/NANOPORE/Shuffle_kmers-main/step2/mapback/mapback/mapback/bin/Debug/netcoreapp3.1/mapback.deps.json
+/Users/jan/FAKS/PhD/LRR_project/Data/NANOPORE/Shuffle_kmers-main/step2/mapback/mapback/mapback/bin/Debug/netcoreapp3.1/mapback.runtimeconfig.json
+/Users/jan/FAKS/PhD/LRR_project/Data/NANOPORE/Shuffle_kmers-main/step2/mapback/mapback/mapback/bin/Debug/netcoreapp3.1/mapback.runtimeconfig.dev.json
+/Users/jan/FAKS/PhD/LRR_project/Data/NANOPORE/Shuffle_kmers-main/step2/mapback/mapback/mapback/bin/Debug/netcoreapp3.1/mapback.dll
+/Users/jan/FAKS/PhD/LRR_project/Data/NANOPORE/Shuffle_kmers-main/step2/mapback/mapback/mapback/bin/Debug/netcoreapp3.1/mapback.pdb
+/Users/jan/FAKS/PhD/LRR_project/Data/NANOPORE/Shuffle_kmers-main/step2/mapback/mapback/mapback/bin/Debug/netcoreapp3.1/Bio.Core.dll
+/Users/jan/FAKS/PhD/LRR_project/Data/NANOPORE/Shuffle_kmers-main/step2/mapback/mapback/mapback/obj/Debug/netcoreapp3.1/mapback.csproj.AssemblyReference.cache
+/Users/jan/FAKS/PhD/LRR_project/Data/NANOPORE/Shuffle_kmers-main/step2/mapback/mapback/mapback/obj/Debug/netcoreapp3.1/mapback.AssemblyInfoInputs.cache
+/Users/jan/FAKS/PhD/LRR_project/Data/NANOPORE/Shuffle_kmers-main/step2/mapback/mapback/mapback/obj/Debug/netcoreapp3.1/mapback.AssemblyInfo.cs
+/Users/jan/FAKS/PhD/LRR_project/Data/NANOPORE/Shuffle_kmers-main/step2/mapback/mapback/mapback/obj/Debug/netcoreapp3.1/mapback.csproj.CoreCompileInputs.cache
+/Users/jan/FAKS/PhD/LRR_project/Data/NANOPORE/Shuffle_kmers-main/step2/mapback/mapback/mapback/obj/Debug/netcoreapp3.1/mapback.csproj.CopyComplete
+/Users/jan/FAKS/PhD/LRR_project/Data/NANOPORE/Shuffle_kmers-main/step2/mapback/mapback/mapback/obj/Debug/netcoreapp3.1/mapback.dll
+/Users/jan/FAKS/PhD/LRR_project/Data/NANOPORE/Shuffle_kmers-main/step2/mapback/mapback/mapback/obj/Debug/netcoreapp3.1/mapback.pdb
+/Users/jan/FAKS/PhD/LRR_project/Data/NANOPORE/Shuffle_kmers-main/step2/mapback/mapback/mapback/obj/Debug/netcoreapp3.1/mapback.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "72MuV9v0FA9LXXBMEpv/vw9GGzs5g1QbBY+jAXdYQ6R5cLX2sVWC44Iust6jpyJd+J8XVl4FdmkuD8PAehpS2Q==",
+  "success": true,
+  "projectFilePath": "/Users/jan/FAKS/PhD/LRR_project/Data/NANOPORE/Shuffle_kmers-main/step2/mapback/mapback/mapback/mapback.csproj",
+  "expectedPackageFiles": [
+    "/Users/jan/.nuget/packages/netbio.core/3.0.0-alpha/netbio.core.3.0.0-alpha.nupkg.sha512"
+  ],
+  "logs": []
+}

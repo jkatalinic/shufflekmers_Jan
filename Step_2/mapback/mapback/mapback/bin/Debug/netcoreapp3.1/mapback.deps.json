@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "mapback/1.0.0": {
+        "dependencies": {
+          "NetBio.Core": "3.0.0-alpha"
+        },
+        "runtime": {
+          "mapback.dll": {}
+        }
+      },
+      "NetBio.Core/3.0.0-alpha": {
+        "runtime": {
+          "lib/netstandard2.0/Bio.Core.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mapback/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NetBio.Core/3.0.0-alpha": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RcyiZYcdAAjOUtVW64sDVgMX5ZfcnqJRbjnuF9mAe8NWsQIWsoo5B1c64Ij56IsCxmFashSqZq1csOMlOGN/iw==",
+      "path": "netbio.core/3.0.0-alpha",
+      "hashPath": "netbio.core.3.0.0-alpha.nupkg.sha512"
+    }
+  }
+}
